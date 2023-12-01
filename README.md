@@ -25,7 +25,7 @@ Finally, there is also a More Info page that users can visit to get an understan
 
 The link to all three can also be found below.
 
-* [Process book](https://github.com/dataviscourse2023/final-project-visualizing-counter-strike-esports/blob/main/CS%206630_5630%20Process%20Book%20Visualizing%20Counter%20Strike%20Esports.pdf)
+* [Process book](https://github.com/dataviscourse2023/final-project-visualizing-counter-strike-esports/blob/main/process_book.pdf)
 * [Demo Video](https://www.youtube.com/watch?v=uhNKqyfq6Ko)
 * [Github repo](https://github.com/dataviscourse2023/final-project-visualizing-counter-strike-esports)
 
