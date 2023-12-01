@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Visualizing Counter Strike Esports is an attempt to give both players of the game and fans the ability to engage with and understand the complexity of factors influencing matches between the best teams and players in the world. Using our website, users
+Visualizing Counter Strike Esports is an attempt to give both players of the game and fans the ability to engage with and understand the complexity of factors influencing matches between the best teams and players in the world. Using our website, users can...
 * Use the Head to Head match predictor to see how teams from the top 30 compare
 * Use the Player Stats page to take a more indepth look at players from the top 30 teams
 * Use the More Info page to learn how to navigate and use the website
@@ -13,7 +13,7 @@ Throughout development of this project we did not use any external libraries and
 
 ## Usage
 
-To view and use our project, please visit [website]. Upon visiting the website you will land on the Head to Head match predictor. It defaults to displaying the two best teams in the world. Users can choose to either change the teams using the drop down menu or begin the head to head analysis by clicking the arrows on the right and left hand side of the screen.
+To view and use our project, please visit our [website](https://el-afro.github.io/). Upon visiting the website you will land on the Head to Head match predictor. It defaults to displaying the two best teams in the world. Users can choose to either change the teams using the drop down menu or begin the head to head analysis by clicking the arrows on the right and left hand side of the screen.
 
 There are 5 phases of the head to head predictor. In each phase, the two selected teams will be compared using a criteria ranging from ranking in the top 30, to which team has the better players on average. Users will be able to see in real time how these two teams stack up.
 
@@ -25,9 +25,9 @@ Finally, there is also a More Info page that users can visit to get an understan
 
 The link to all three can also be found below.
 
-* Process book link
-* Demo video link
-* Github repo link
+* [Process book](https://github.com/dataviscourse2023/final-project-visualizing-counter-strike-esports/blob/main/CS%206630_5630%20Process%20Book%20Visualizing%20Counter%20Strike%20Esports.pdf)
+* [Demo Video](https://www.youtube.com/watch?v=uhNKqyfq6Ko)
+* [Github repo](https://github.com/dataviscourse2023/final-project-visualizing-counter-strike-esports)
 
 ## Contributors
 
