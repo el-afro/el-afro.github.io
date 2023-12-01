@@ -1,0 +1,302 @@
+[
+ {
+   "TeamName": "Vitality",
+   "Inferno (win%)": "88.9",
+   "Mirage (win%)": "72.7",
+   "Nuke (win%)": "100",
+   "Anubis (win%)": "66.7",
+   "Overpass (win%)": "66.7",
+   "Vertigo (win%)": "50",
+   "Ancient (win%)": "BAN"
+ },
+ {
+   "TeamName": "ENCE",
+   "Inferno (win%)": "BAN",
+   "Mirage (win%)": "66.7",
+   "Nuke (win%)": "62.5",
+   "Anubis (win%)": "66.7",
+   "Overpass (win%)": "66.7",
+   "Vertigo (win%)": "80",
+   "Ancient (win%)": "75"
+ },
+ {
+   "TeamName": "G2",
+   "Inferno (win%)": "66.7",
+   "Mirage (win%)": "50",
+   "Nuke (win%)": "60",
+   "Anubis (win%)": "50",
+   "Overpass (win%)": "BAN",
+   "Vertigo (win%)": "50",
+   "Ancient (win%)": "71.4"
+ },
+ {
+   "TeamName": "Heroic",
+   "Inferno (win%)": "62.5",
+   "Mirage (win%)": "55.6",
+   "Nuke (win%)": "40",
+   "Anubis (win%)": "BAN",
+   "Overpass (win%)": "85.7",
+   "Vertigo (win%)": "0",
+   "Ancient (win%)": "0"
+ },
+ {
+   "TeamName": "Astralis",
+   "Inferno (win%)": "42.9",
+   "Mirage (win%)": "BAN",
+   "Nuke (win%)": "42.9",
+   "Anubis (win%)": "50",
+   "Overpass (win%)": "77.8",
+   "Vertigo (win%)": "100",
+   "Ancient (win%)": "72.7"
+ },
+ {
+   "TeamName": "Faze",
+   "Inferno (win%)": "66.7",
+   "Mirage (win%)": "50",
+   "Nuke (win%)": "80",
+   "Anubis (win%)": "0",
+   "Overpass (win%)": "50",
+   "Vertigo (win%)": "BAN",
+   "Ancient (win%)": "25"
+ },
+ {
+   "TeamName": "Gamer Legion",
+   "Inferno (win%)": "66.7",
+   "Mirage (win%)": "20",
+   "Nuke (win%)": "BAN",
+   "Anubis (win%)": "50",
+   "Overpass (win%)": "50",
+   "Vertigo (win%)": "33.3",
+   "Ancient (win%)": "40"
+ },
+ {
+   "TeamName": "Cloud9",
+   "Inferno (win%)": "50",
+   "Mirage (win%)": "50",
+   "Nuke (win%)": "BAN",
+   "Anubis (win%)": "71.4",
+   "Overpass (win%)": "100",
+   "Vertigo (win%)": "66.7",
+   "Ancient (win%)": "60"
+ },
+ {
+   "TeamName": "Natus Vincere",
+   "Inferno (win%)": "71.4",
+   "Mirage (win%)": "62.5",
+   "Nuke (win%)": "50",
+   "Anubis (win%)": "75",
+   "Overpass (win%)": "50",
+   "Vertigo (win%)": "BAN",
+   "Ancient (win%)": "50"
+ },
+ {
+   "TeamName": "Mouz",
+   "Inferno (win%)": "83.3",
+   "Mirage (win%)": "66.7",
+   "Nuke (win%)": "83.3",
+   "Anubis (win%)": "BAN",
+   "Overpass (win%)": "75",
+   "Vertigo (win%)": "33.3",
+   "Ancient (win%)": "60"
+ },
+ {
+   "TeamName": "Monte",
+   "Inferno (win%)": "BAN",
+   "Mirage (win%)": "41.2",
+   "Nuke (win%)": "42.9",
+   "Anubis (win%)": "71.4",
+   "Overpass (win%)": "20",
+   "Vertigo (win%)": "50",
+   "Ancient (win%)": "72.7"
+ },
+ {
+   "TeamName": "Ninjas in Pyjamas",
+   "Inferno (win%)": "66.7",
+   "Mirage (win%)": "42.9",
+   "Nuke (win%)": "33.3",
+   "Anubis (win%)": "BAN",
+   "Overpass (win%)": "25",
+   "Vertigo (win%)": "33.3",
+   "Ancient (win%)": "70"
+ },
+ {
+   "TeamName": "Virtus Pro",
+   "Inferno (win%)": "55.6",
+   "Mirage (win%)": "57.1",
+   "Nuke (win%)": "BAN",
+   "Anubis (win%)": "100",
+   "Overpass (win%)": "80",
+   "Vertigo (win%)": "44.4",
+   "Ancient (win%)": "100"
+ },
+ {
+   "TeamName": "Apeks",
+   "Inferno (win%)": "57.1",
+   "Mirage (win%)": "62.5",
+   "Nuke (win%)": "BAN",
+   "Anubis (win%)": "50",
+   "Overpass (win%)": "25",
+   "Vertigo (win%)": "66.7",
+   "Ancient (win%)": "37.5"
+ },
+ {
+   "TeamName": "Fnatic",
+   "Inferno (win%)": "50",
+   "Mirage (win%)": "BAN",
+   "Nuke (win%)": "33.3",
+   "Anubis (win%)": "33.3",
+   "Overpass (win%)": "50",
+   "Vertigo (win%)": "50",
+   "Ancient (win%)": "66.7"
+ },
+ {
+   "TeamName": "Team Liquid",
+   "Inferno (win%)": "0",
+   "Mirage (win%)": "33.3",
+   "Nuke (win%)": "BAN",
+   "Anubis (win%)": "0",
+   "Overpass (win%)": "25",
+   "Vertigo (win%)": "50",
+   "Ancient (win%)": "60"
+ },
+ {
+   "TeamName": "Imperial",
+   "Inferno (win%)": "100",
+   "Mirage (win%)": "0",
+   "Nuke (win%)": "33.3",
+   "Anubis (win%)": "100",
+   "Overpass (win%)": "25",
+   "Vertigo (win%)": "BAN",
+   "Ancient (win%)": "0"
+ },
+ {
+   "TeamName": "Furia",
+   "Inferno (win%)": "33.3",
+   "Mirage (win%)": "57.1",
+   "Nuke (win%)": "50",
+   "Anubis (win%)": "BAN",
+   "Overpass (win%)": "40",
+   "Vertigo (win%)": "60",
+   "Ancient (win%)": "50"
+ },
+ {
+   "TeamName": "9INE",
+   "Inferno (win%)": "BAN",
+   "Mirage (win%)": "50",
+   "Nuke (win%)": "33.3",
+   "Anubis (win%)": "60",
+   "Overpass (win%)": "75",
+   "Vertigo (win%)": "66.7",
+   "Ancient (win%)": "41.7"
+ },
+ {
+   "TeamName": "BIG",
+   "Inferno (win%)": "60",
+   "Mirage (win%)": "33.3",
+   "Nuke (win%)": "BAN",
+   "Anubis (win%)": "57.1",
+   "Overpass (win%)": "60",
+   "Vertigo (win%)": "57.1",
+   "Ancient (win%)": "58.8"
+ },
+ {
+   "TeamName": "Spirit",
+   "Inferno (win%)": "BAN",
+   "Mirage (win%)": "75",
+   "Nuke (win%)": "100",
+   "Anubis (win%)": "50",
+   "Overpass (win%)": "75",
+   "Vertigo (win%)": "42.9",
+   "Ancient (win%)": "83.3"
+ },
+ {
+   "TeamName": "Complexity",
+   "Inferno (win%)": "25",
+   "Mirage (win%)": "BAN",
+   "Nuke (win%)": "60",
+   "Anubis (win%)": "100",
+   "Overpass (win%)": "57.1",
+   "Vertigo (win%)": "60",
+   "Ancient (win%)": "50"
+ },
+ {
+   "TeamName": "MIBR",
+   "Inferno (win%)": "33.3",
+   "Mirage (win%)": "66.7",
+   "Nuke (win%)": "60",
+   "Anubis (win%)": "50",
+   "Overpass (win%)": "BAN",
+   "Vertigo (win%)": "16.7",
+   "Ancient (win%)": "40"
+ },
+ {
+   "TeamName": "OG",
+   "Inferno (win%)": "50",
+   "Mirage (win%)": "63.6",
+   "Nuke (win%)": "66.7",
+   "Anubis (win%)": "0",
+   "Overpass (win%)": "40",
+   "Vertigo (win%)": "BAN",
+   "Ancient (win%)": "41.7"
+ },
+ {
+   "TeamName": "TheMongolz",
+   "Inferno (win%)": "42.9",
+   "Mirage (win%)": "80",
+   "Nuke (win%)": "33.3",
+   "Anubis (win%)": "33.3",
+   "Overpass (win%)": "20",
+   "Vertigo (win%)": "BAN",
+   "Ancient (win%)": "80"
+ },
+ {
+   "TeamName": "Movistar Rider",
+   "Inferno (win%)": "50",
+   "Mirage (win%)": "BAN",
+   "Nuke (win%)": "75",
+   "Anubis (win%)": "50",
+   "Overpass (win%)": "33.3",
+   "Vertigo (win%)": "66.7",
+   "Ancient (win%)": "60"
+ },
+ {
+   "TeamName": "1WIN",
+   "Inferno (win%)": "50",
+   "Mirage (win%)": "30",
+   "Nuke (win%)": "87.5",
+   "Anubis (win%)": "BAN",
+   "Overpass (win%)": "80",
+   "Vertigo (win%)": "83.3",
+   "Ancient (win%)": "40"
+ },
+ {
+   "TeamName": "Bad News Eagles",
+   "Inferno (win%)": "50",
+   "Mirage (win%)": "61.5",
+   "Nuke (win%)": "BAN",
+   "Anubis (win%)": "42.9",
+   "Overpass (win%)": "50",
+   "Vertigo (win%)": "20",
+   "Ancient (win%)": "62.5"
+ },
+ {
+   "TeamName": "Aurora",
+   "Inferno (win%)": "60",
+   "Mirage (win%)": "50",
+   "Nuke (win%)": "63.6",
+   "Anubis (win%)": "50",
+   "Overpass (win%)": "30.8",
+   "Vertigo (win%)": "BAN",
+   "Ancient (win%)": "66.7"
+ },
+ {
+   "TeamName": "Evil Geniuses ",
+   "Inferno (win%)": "50",
+   "Mirage (win%)": "44.4",
+   "Nuke (win%)": "50",
+   "Anubis (win%)": "BAN",
+   "Overpass (win%)": "28.6",
+   "Vertigo (win%)": "57.1",
+   "Ancient (win%)": "66.7"
+ }
+]

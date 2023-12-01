@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>CSGO Match Predictor</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./images/favicon.ico" type="image/x-icon">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="js/player.js"></script>
+    <script src="js/team.js"></script>
+    <script src="js/status.js"></script>
+  </head>
+
+  <body>
+    <main> 
+        <nav>
+            <div id="navBar">
+                <div id="logo">
+                    <img src="./images/csgo.png" alt="CSGO Logo">
+                    <text>CSGO</text>
+                </div>
+                <div id="links">
+                    <a href="/index.html"><button>Head to Head</button></a>
+                    <a href="/status.html"><button>Player Stats</button></a> 
+                    <a href="/info.html"><button>Info</button></a>    
+                </div>
+                <div id="names">
+                    <text>Williams Camposano</text>
+                    <text>Christopher Loera-Peña</text>
+                    <text>Wilson Pan</text>
+                </div>
+                <div id="github">
+                    <a href="https://github.com/dataviscourse2023/final-project-visualizing-counter-strike-esports" target="_blank">
+                        <img src="./images/github.png" alt="github Logo">
+                    </a>
+                </div>
+            </div>
+        </nav>
+
+        <section id="main">
+            <section id ="playerSelect">
+                <section id="teamName">
+                    <img src="" id="playerTeamLogo">
+                    <span id="playerTeamName"> CHOOSE A PLAYER</span>
+                </section>
+
+                <section id="playerName">
+                    <img src="images/csgo.png" id="playerImage">
+                    <select id="selectedPlayer">
+                        <option value="910" selected>910</option>
+                        <option value="Adams">Adams</option>
+                        <option value="Afro">Afro</option>
+                        <option value="Aleksib">Aleksib</option>
+                        <option value="Alex">Alex</option>
+                        <option value="Apex">Apex</option>
+                        <option value="Acor">Acor</option>
+                        <option value="Art">Art</option>
+                        <option value="Artfr0st">Artfr0st</option>
+                        <option value="Autimatic">Autimatic</option>
+                        <option value="Ax1le">Ax1le</option>
+                        <option value="Blamef">Blamef</option>
+                        <option value="Bit">Bit</option>
+                        <option value="Blitz">Blitz</option>
+                        <option value="Boombl4">Boombl4</option>
+                        <option value="Borup">Borup</option>
+                        <option value="Boltz">Boltz</option>
+                        <option value="Brollan">Brollan</option>
+                        <option value="Bro">Bro</option>
+                        <option value="Broky">Broky</option>
+                        <option value="Brnz4n">Brnz4n</option>
+                        <option value="Buzz">Buzz</option>
+                        <option value="Cacanito">Cacanito</option>
+                        <option value="Cadian">Cadian</option>
+                        <option value="Chelo">Chelo</option>
+                        <option value="Chopper">Chopper</option>
+                        <option value="Deko">Deko</option>
+                        <option value="Demqq">Demqq</option>
+                        <option value="Device">Device</option>
+                        <option value="Dexter">Dexter</option>
+                        <option value="Donk">Donk</option>
+                        <option value="Drop">Drop</option>
+                        <option value="Dycha">Dycha</option>
+                        <option value="Elige">Elige</option>
+                        <option value="Electronic">Electronic</option>
+                        <option value="Exit">Exit</option>
+                        <option value="F1ku">F1ku</option>
+                        <option value="Fame">Fame</option>
+                        <option value="Fallen">Fallen</option>
+                        <option value="Fashr">Fashr</option>
+                        <option value="Felps">Felps</option>
+                        <option value="Flamez">Flamez</option>
+                        <option value="Flit">Flit</option>
+                        <option value="Floppy">Floppy</option>
+                        <option value="Forester">Forester</option>
+                        <option value="Frozen">Frozen</option>
+                        <option value="Gxx-">Gxx-</option>
+                        <option value="Goofy">Goofy</option>
+                        <option value="Grim">Grim</option>
+                        <option value="Hallzerk">Hallzerk</option>
+                        <option value="Hades">Hades</option>
+                        <option value="Hampus">Hampus</option>
+                        <option value="Headtr1ck">Headtr1ck</option>
+                        <option value="Hen1">Hen1</option>
+                        <option value="Hext">Hext</option>
+                        <option value="Hobbit">Hobbit</option>
+                        <option value="Hooxi">Hooxi</option>
+                        <option value="Hunter">Hunter</option>
+                        <option value="Im">Im</option>
+                        <option value="Insani">Insani</option>
+                        <option value="Isak">Isak</option>
+                        <option value="Jabbi">Jabbi</option>
+                        <option value="Jame">Jame</option>
+                        <option value="Jeorge">Jeorge</option>
+                        <option value="Jkaem">Jkaem</option>
+                        <option value="Jks">Jks</option>
+                        <option value="Jimpphat">Jimpphat</option>
+                        <option value="Jl">Jl</option>
+                        <option value="Jota">Jota</option>
+                        <option value="Jt">Jt</option>
+                        <option value="Juanflatroo">Juanflatroo</option>
+                        <option value="Junior">Junior</option>
+                        <option value="Just">Just</option>
+                        <option value="K1to">K1to</option>
+                        <option value="Karrigan">Karrigan</option>
+                        <option value="Kensi">Kensi</option>
+                        <option value="Kei">Kei</option>
+                        <option value="Keoz">Keoz</option>
+                        <option value="Konfig">Konfig</option>
+                        <option value="Krasnal">Krasnal</option>
+                        <option value="Krimbo">Krimbo</option>
+                        <option value="Krimz">Krimz</option>
+                        <option value="Kscerato">Kscerato</option>
+                        <option value="Kyxsan">Kyxsan</option>
+                        <option value="Kylar">Kylar</option>
+                        <option value="Lack1">Lack1</option>
+                        <option value="Lattykk">Lattykk</option>
+                        <option value="Magisk">Magisk</option>
+                        <option value="Magixx">Magixx</option>
+                        <option value="Maden">Maden</option>
+                        <option value="Mantuu">Mantuu</option>
+                        <option value="Martinez">Martinez</option>
+                        <option value="M0nesy">M0nesy</option>
+                        <option value="Mezii">Mezii</option>
+                        <option value="Mir">Mir</option>
+                        <option value="Mopoz">Mopoz</option>
+                        <option value="Mynio">Mynio</option>
+                        <option value="Mzinho">Mzinho</option>
+                        <option value="Naf">Naf</option>
+                        <option value="Nawwk">Nawwk</option>
+                        <option value="Nealan">Nealan</option>
+                        <option value="Nertz">Nertz</option>
+                        <option value="Nexa">Nexa</option>
+                        <option value="Nickelback">Nickelback</option>
+                        <option value="Niko">Niko</option>
+                        <option value="N0rb3r7">N0rb3r7</option>
+                        <option value="Norwi">Norwi</option>
+                        <option value="Osee">Osee</option>
+                        <option value="Patsi">Patsi</option>
+                        <option value="Perfecto">Perfecto</option>
+                        <option value="Prosus">Prosus</option>
+                        <option value="Rain">Rain</option>
+                        <option value="Rainwaker">Rainwaker</option>
+                        <option value="Regali">Regali</option>
+                        <option value="Rez">Rez</option>
+                        <option value="Rigon">Rigon</option>
+                        <option value="Roej">Roej</option>
+                        <option value="Ropz">Ropz</option>
+                        <option value="Senzu">Senzu</option>
+                        <option value="S1mple">S1mple</option>
+                        <option value="S1n">S1n</option>
+                        <option value="Saffee">Saffee</option>
+                        <option value="Sellter">Sellter</option>
+                        <option value="Sener1">Sener1</option>
+                        <option value="Sh1ro">Sh1ro</option>
+                        <option value="Sinnopsyy">Sinnopsyy</option>
+                        <option value="Siuhy">Siuhy</option>
+                        <option value="Sjuush">Sjuush</option>
+                        <option value="Snappi">Snappi</option>
+                        <option value="Spinx">Spinx</option>
+                        <option value="Sdy">Sdy</option>
+                        <option value="Staehr">Staehr</option>
+                        <option value="Stavn">Stavn</option>
+                        <option value="Styko">Styko</option>
+                        <option value="Sunpayus">Sunpayus</option>
+                        <option value="Tabsen">Tabsen</option>
+                        <option value="Techno">Techno</option>
+                        <option value="Teses">Teses</option>
+                        <option value="Torzsi">Torzsi</option>
+                        <option value="Travis">Travis</option>
+                        <option value="Twistzz">Twistzz</option>
+                        <option value="Vini">Vini</option>
+                        <option value="Volt">Volt</option>
+                        <option value="Walco">Walco</option>
+                        <option value="Woro2k">Woro2k</option>
+                        <option value="Xertion">Xertion</option>
+                        <option value="Yekindar">Yekindar</option>
+                        <option value="Yuurih">Yuurih</option>
+                        <option value="Zont1x">Zont1x</option>
+                        <option value="Zywoo">Zywoo</option>
+                    </select>    
+                </section>
+            </section>
+
+            <section id ="visualizations">
+                <section id ="horizontalSVGs">
+                    <svg id ="box_Plot"></svg>
+                    <svg id ="spiderGraph"></svg>
+                </section>
+                <svg id ="lineGraph"></svg>
+            </section>
+        </section>
+    </main>
+  </body>
+</html>

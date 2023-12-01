@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>CSGO Match Predictor</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./images/favicon.ico" type="image/x-icon">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="js/player.js"></script>
+    <script src="js/team.js"></script>
+    <script src="js/view.js"></script>
+    <script src="js/index.js"></script>
+  </head>
+
+  <body>
+    <main>    
+        <nav>
+            <div id="navBar">
+                <div id="logo">
+                    <img src="./images/csgo.png" alt="CSGO Logo">
+                    <text>CSGO</text>
+                </div>
+                <div id="links">
+                    <a href="/index.html"><button>Head to Head</button></a>
+                    <a href="/status.html"><button>Player Stats</button></a> 
+                    <a href="/info.html"><button>Info</button></a>    
+                </div>
+                <div id="names">
+                    <text>Williams Camposano</text>
+                    <text>Christopher Loera-Peña</text>
+                    <text>Wilson Pan</text>
+                </div>
+                <div id="github">
+                    <a href="https://github.com/dataviscourse2023/final-project-visualizing-counter-strike-esports" target="_blank">
+                        <img src="./images/github.png" alt="github Logo">
+                    </a>
+                </div>
+            </div>
+        </nav>
+
+        <section id="scoreBoard">        
+            <div id="teamOne">
+                <div class="teamLogo">
+                    <img id="teamOneLogo" src="./images/Vitality/Vitality.png" alt="Team one logo">
+                </div>
+
+                <div selectTeamOne>
+                    <select id="pickTeamOne">
+                        <option value="Vitality" selected>Vitality</option>
+                        <option value="ENCE">ENCE</option>
+                        <option value="G2">G2</option>
+                        <option value="Heroic">Heroic</option>
+                        <option value="Astralis">Astralis</option>
+                        <option value="Faze">Faze</option>
+                        <option value="Gamer Legion">Gamer Legion</option>
+                        <option value="Cloud9">Cloud9</option>
+                        <option value="Natus Vincere">Natus Vincere</option>
+                        <option value="Mouz">Mouz</option>
+                        <option value="Monte">Monte</option>
+                        <option value="Ninjas in Pyjamas">Ninjas in Pyjamas</option>
+                        <option value="Virtus Pro">Virtus Pro</option>
+                        <option value="Apeks">Apeks</option>
+                        <option value="Fnatic">Fnatic</option>
+                        <option value="Team Liquid">Team Liquid</option>
+                        <option value="Imperial">Imperial</option>
+                        <option value="Furia">Furia</option>
+                        <option value="9INE">9INE</option>
+                        <option value="BIG">BIG</option>
+                        <option value="Spirit">Spirit</option>
+                        <option value="Complexity">Complexity</option>
+                        <option value="MIBR">MIBR</option>
+                        <option value="OG">OG</option>
+                        <option value="TheMongolz">TheMongolz</option>
+                        <option value="Movistar Rider">Movistar Rider</option>
+                        <option value="1WIN">1WIN</option>
+                        <option value="Bad News Eagles">Bad News Eagles</option>
+                        <option value="Aurora">Aurora</option>
+                        <option value="Evil Geniuses ">Evil Geniuses</option>
+                    </select>                    
+                </div>
+                <div class="score" id="teamOneScore">
+                    <text>SCORE</text>
+                </div>
+
+                <div class="winnerTeamOne" id="winnerTeamOne">
+                    <img src="images/winnerImage.png" id="winnerImage">
+                </div>
+
+            </div>
+            
+            <div id="teamTwo">
+
+                <div class="winnerTeamTwo" id="winnerTeamTwo">
+                    <img src="images/winnerImage.png" id="winnerImage">
+                </div>
+
+                <div class="score" id="teamTwoScore">
+                    <text>SCORE</text>
+                </div>
+                <div selectTeamTwo>
+                    <select id="pickTeamTwo">
+                        <option value="Vitality">Vitality</option>
+                        <option value="ENCE" selected>ENCE</option>
+                        <option value="G2">G2</option>
+                        <option value="Heroic">Heroic</option>
+                        <option value="Astralis">Astralis</option>
+                        <option value="Faze">Faze</option>
+                        <option value="Gamer Legion">Gamer Legion</option>
+                        <option value="Cloud9">Cloud9</option>
+                        <option value="Natus Vincere">Natus Vincere</option>
+                        <option value="Mouz">Mouz</option>
+                        <option value="Monte">Monte</option>
+                        <option value="Ninjas in Pyjamas">Ninjas in Pyjamas</option>
+                        <option value="Virtus Pro">Virtus Pro</option>
+                        <option value="Apeks">Apeks</option>
+                        <option value="Fnatic">Fnatic</option>
+                        <option value="Team Liquid">Team Liquid</option>
+                        <option value="Imperial">Imperial</option>
+                        <option value="Furia">Furia</option>
+                        <option value="9INE">9INE</option>
+                        <option value="BIG">BIG</option>
+                        <option value="Spirit">Spirit</option>
+                        <option value="Complexity">Complexity</option>
+                        <option value="MIBR">MIBR</option>
+                        <option value="OG">OG</option>
+                        <option value="TheMongolz">TheMongolz</option>
+                        <option value="Movistar Rider">Movistar Rider</option>
+                        <option value="1WIN">1WIN</option>
+                        <option value="Bad News Eagles">Bad News Eagles</option>
+                        <option value="Aurora">Aurora</option>
+                        <option value="Evil Geniuses ">Evil Geniuses</option>
+                    </select>                    
+                </div>
+                <div class="teamLogo">
+                    <img id="teamTwoLogo" src="./images/ENCE/ENCE.png" alt="Team two logo">
+                </div>
+            </div>
+        </section>
+
+        <section id="predictor">
+            <button id="backArrow" style="background: #161519">&lt</button>
+            <section id="visualization">
+                <text id="criteriaText"></text>
+                <svg></svg>
+                <text id="winnerText"></text>
+            </section>
+            <button id="forwardArrow" style="background: #161519">&gt</button>
+        </section>
+    </main>
+  </body>
+</html>

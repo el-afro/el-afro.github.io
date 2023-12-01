@@ -1,0 +1,245 @@
+[
+ {
+   "Team": "Vitality",
+   "HLTV Rank": 1,
+   "Valve Rank": 1,
+   "Weeks in Top 30": 88,
+   "Region": "Europe",
+   "Country": "International"
+ },
+ {
+   "Team": "ENCE",
+   "HLTV Rank": 2,
+   "Valve Rank": 2,
+   "Weeks in Top 30": 86,
+   "Region": "Europe",
+   "Country": "International"
+ },
+ {
+   "Team": "G2",
+   "HLTV Rank": 3,
+   "Valve Rank": 3,
+   "Weeks in Top 30": 86,
+   "Region": "Europe",
+   "Country": "International"
+ },
+ {
+   "Team": "Heroic",
+   "HLTV Rank": 4,
+   "Valve Rank": 4,
+   "Weeks in Top 30": 178,
+   "Region": "Europe",
+   "Country": "Denmark"
+ },
+ {
+   "Team": "Astralis",
+   "HLTV Rank": 5,
+   "Valve Rank": 7,
+   "Weeks in Top 30": 38,
+   "Region": "Europe",
+   "Country": "Denmark"
+ },
+ {
+   "Team": "Faze",
+   "HLTV Rank": 6,
+   "Valve Rank": 10,
+   "Weeks in Top 30": 133,
+   "Region": "Europe",
+   "Country": "International"
+ },
+ {
+   "Team": "Gamer Legion",
+   "HLTV Rank": 7,
+   "Valve Rank": 12,
+   "Weeks in Top 30": 46,
+   "Region": "Europe",
+   "Country": "International"
+ },
+ {
+   "Team": "Cloud9",
+   "HLTV Rank": 8,
+   "Valve Rank": 9,
+   "Weeks in Top 30": 156,
+   "Region": "CIS",
+   "Country": "Russia"
+ },
+ {
+   "Team": "Natus Vincere",
+   "HLTV Rank": 9,
+   "Valve Rank": 11,
+   "Weeks in Top 30": 9,
+   "Region": "CIS",
+   "Country": "International"
+ },
+ {
+   "Team": "Mouz",
+   "HLTV Rank": 10,
+   "Valve Rank": 8,
+   "Weeks in Top 30": 58,
+   "Region": "Europe",
+   "Country": "International"
+ },
+ {
+   "Team": "Monte",
+   "HLTV Rank": 11,
+   "Valve Rank": 13,
+   "Weeks in Top 30": 24,
+   "Region": "CIS",
+   "Country": "Ukraine"
+ },
+ {
+   "Team": "Ninjas in Pyjamas",
+   "HLTV Rank": 12,
+   "Valve Rank": 16,
+   "Weeks in Top 30": 73,
+   "Region": "Europe",
+   "Country": "Sweden"
+ },
+ {
+   "Team": "Virtus Pro",
+   "HLTV Rank": 13,
+   "Valve Rank": 5,
+   "Weeks in Top 30": 67,
+   "Region": "CIS",
+   "Country": "Russia"
+ },
+ {
+   "Team": "Apeks",
+   "HLTV Rank": 14,
+   "Valve Rank": 19,
+   "Weeks in Top 30": 26,
+   "Region": "Europe",
+   "Country": "International"
+ },
+ {
+   "Team": "Fnatic",
+   "HLTV Rank": 15,
+   "Valve Rank": 17,
+   "Weeks in Top 30": 56,
+   "Region": "Europe",
+   "Country": "International"
+ },
+ {
+   "Team": "Team Liquid",
+   "HLTV Rank": 16,
+   "Valve Rank": 18,
+   "Weeks in Top 30": 57,
+   "Region": "Europe",
+   "Country": "International"
+ },
+ {
+   "Team": "Imperial",
+   "HLTV Rank": 17,
+   "Valve Rank": 25,
+   "Weeks in Top 30": 69,
+   "Region": "Americas",
+   "Country": "Brazil"
+
+ },
+ {
+   "Team": "Furia",
+   "HLTV Rank": 18,
+   "Valve Rank": 29,
+   "Weeks in Top 30": 242,
+   "Region": "Americas",
+   "Country": "Brazil"
+ },
+ {
+   "Team": "9INE",
+   "HLTV Rank": 19,
+   "Valve Rank": 20,
+   "Weeks in Top 30": 30,
+   "Region": "Europe",
+   "Country": "Poland"
+ },
+ {
+   "Team": "BIG",
+   "HLTV Rank": 20,
+   "Valve Rank": 15,
+   "Weeks in Top 30": 19,
+   "Region": "Europe",
+   "Country": "Germany"
+ },
+ {
+   "Team": "Spirit",
+   "HLTV Rank": 21,
+   "Valve Rank": 6,
+   "Weeks in Top 30": 5,
+   "Region": "CIS",
+   "Country": "Russia"
+ },
+ {
+   "Team": "Complexity",
+   "HLTV Rank": 22,
+   "Valve Rank": 21,
+   "Weeks in Top 30": 75,
+   "Region": "Americas",
+   "Country": "United States"
+ },
+ {
+   "Team": "MIBR",
+   "HLTV Rank": 23,
+   "Valve Rank": 23,
+   "Weeks in Top 30": 18,
+   "Region": "Americas",
+   "Country": "Brazil"
+ },
+ {
+   "Team": "OG",
+   "HLTV Rank": 24,
+   "Valve Rank": 28,
+   "Weeks in Top 30": 7,
+   "Region": "Europe",
+   "Country": "International"
+ },
+ {
+   "Team": "TheMongolz",
+   "HLTV Rank": 25,
+   "Valve Rank": 26,
+   "Weeks in Top 30": 10,
+   "Region": "Asia",
+   "Country": "Mongolia"
+ },
+ {
+   "Team": "Movistar Rider",
+   "HLTV Rank": 26,
+   "Valve Rank": 30,
+   "Weeks in Top 30": 48,
+   "Region": "Europe",
+   "Country": "Spain"
+ },
+ {
+   "Team": "1WIN",
+   "HLTV Rank": 27,
+   "Valve Rank": 14,
+   "Weeks in Top 30": 9,
+   "Region": "CIS",
+   "Country": "Russia"
+ },
+ {
+   "Team": "Bad News Eagles",
+   "HLTV Rank": 28,
+   "Valve Rank": 22,
+   "Weeks in Top 30": 78,
+   "Region": "CIS",
+   "Country": "Kosovo"
+ },
+ {
+   "Team": "Aurora",
+   "HLTV Rank": 29,
+   "Valve Rank": 24,
+   "Weeks in Top 30": 16,
+   "Region": "CIS",
+   "Country": "Kosovo"
+   
+ },
+ {
+   "Team": "Evil Geniuses ",
+   "HLTV Rank": 30,
+   "Valve Rank": 27,
+   "Weeks in Top 30": 1,
+   "Region": "Americas",
+   "Country": "United States"
+
+ }
+]

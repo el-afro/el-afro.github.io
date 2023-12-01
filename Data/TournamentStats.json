@@ -1,0 +1,1502 @@
+[
+ {
+   "Name": "Apex",
+   "BLAST Premier Spring Final": "0.79",
+   "BLAST Premier Fall Groups": "1.03",
+   "IEM Cologne 2023": "0.94",
+   "Gamers8 2023": "0.86",
+   "ESL Pro League Season 18": "0.99",
+   "IEM Sydney 2023": "0.88",
+   "TeamName": "Vitality"
+ },
+ {
+   "Name": "Magisk",
+   "BLAST Premier Spring Final": "1.04",
+   "BLAST Premier Fall Groups": "1.19",
+   "IEM Cologne 2023": "1.07",
+   "Gamers8 2023": "1.15",
+   "ESL Pro League Season 18": "1.28",
+   "IEM Sydney 2023": "1.14",
+   "TeamName": "Vitality"
+ },
+ {
+   "Name": "Zywoo",
+   "BLAST Premier Spring Final": "1.18",
+   "BLAST Premier Fall Groups": "1.37",
+   "IEM Cologne 2023": "1.25",
+   "Gamers8 2023": "1.26",
+   "ESL Pro League Season 18": "1.29",
+   "IEM Sydney 2023": "1.12",
+   "TeamName": "Vitality"
+ },
+ {
+   "Name": "Flamez",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.94",
+   "IEM Cologne 2023": "1.13",
+   "Gamers8 2023": "1.12",
+   "ESL Pro League Season 18": "0.99",
+   "IEM Sydney 2023": "1",
+   "TeamName": "Vitality"
+ },
+ {
+   "Name": "Spinx",
+   "BLAST Premier Spring Final": "1.08",
+   "BLAST Premier Fall Groups": "1.18",
+   "IEM Cologne 2023": "1.1",
+   "Gamers8 2023": "1.08",
+   "ESL Pro League Season 18": "1.21",
+   "IEM Sydney 2023": "1.18",
+   "TeamName": "Vitality"
+ },
+ {
+   "Name": "Snappi",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.95",
+   "Gamers8 2023": "0.87",
+   "ESL Pro League Season 18": "0.95",
+   "IEM Sydney 2023": "0.89",
+   "TeamName": "ENCE"
+ },
+ {
+   "Name": "Nertz",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.97",
+   "Gamers8 2023": "1.23",
+   "ESL Pro League Season 18": "1.29",
+   "IEM Sydney 2023": "0.94",
+   "TeamName": "ENCE"
+ },
+ {
+   "Name": "Maden",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.95",
+   "Gamers8 2023": "1.14",
+   "ESL Pro League Season 18": "1.02",
+   "IEM Sydney 2023": "1.02",
+   "TeamName": "ENCE"
+ },
+ {
+   "Name": "Dycha",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.95",
+   "Gamers8 2023": "1.17",
+   "ESL Pro League Season 18": "1.06",
+   "IEM Sydney 2023": "1.08",
+   "TeamName": "ENCE"
+ },
+ {
+   "Name": "Sunpayus",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.17",
+   "Gamers8 2023": "1.22",
+   "ESL Pro League Season 18": "1.27",
+   "IEM Sydney 2023": "1.08",
+   "TeamName": "ENCE"
+ },
+ {
+   "Name": "Niko",
+   "BLAST Premier Spring Final": "1.28",
+   "BLAST Premier Fall Groups": "1.3",
+   "IEM Cologne 2023": "1.35",
+   "Gamers8 2023": "1.27",
+   "ESL Pro League Season 18": "1.11",
+   "IEM Sydney 2023": "1.07",
+   "TeamName": "G2"
+ },
+ {
+   "Name": "M0nesy",
+   "BLAST Premier Spring Final": "1.23",
+   "BLAST Premier Fall Groups": "1.04",
+   "IEM Cologne 2023": "1.34",
+   "Gamers8 2023": "1.07",
+   "ESL Pro League Season 18": "1.21",
+   "IEM Sydney 2023": "1.38",
+   "TeamName": "G2"
+ },
+ {
+   "Name": "Hooxi",
+   "BLAST Premier Spring Final": "0.85",
+   "BLAST Premier Fall Groups": "0.8",
+   "IEM Cologne 2023": "0.93",
+   "Gamers8 2023": "0.84",
+   "ESL Pro League Season 18": "0.87",
+   "IEM Sydney 2023": "0.85",
+   "TeamName": "G2"
+ },
+ {
+   "Name": "Jks",
+   "BLAST Premier Spring Final": "1",
+   "BLAST Premier Fall Groups": "1",
+   "IEM Cologne 2023": "1.09",
+   "Gamers8 2023": "0.89",
+   "ESL Pro League Season 18": "1.06",
+   "IEM Sydney 2023": "1.02",
+   "TeamName": "G2"
+ },
+ {
+   "Name": "Hunter",
+   "BLAST Premier Spring Final": "1.1",
+   "BLAST Premier Fall Groups": "1.06",
+   "IEM Cologne 2023": "1.21",
+   "Gamers8 2023": "1.16",
+   "ESL Pro League Season 18": "1.08",
+   "IEM Sydney 2023": "0.99",
+   "TeamName": "G2"
+ },
+ {
+   "Name": "Cadian",
+   "BLAST Premier Spring Final": "1.2",
+   "BLAST Premier Fall Groups": "1.16",
+   "IEM Cologne 2023": "1.08",
+   "Gamers8 2023": "0.95",
+   "ESL Pro League Season 18": "0.92",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Heroic"
+ },
+ {
+   "Name": "Stavn",
+   "BLAST Premier Spring Final": "1.17",
+   "BLAST Premier Fall Groups": "1.28",
+   "IEM Cologne 2023": "1.1",
+   "Gamers8 2023": "1.17",
+   "ESL Pro League Season 18": "1.03",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Heroic"
+ },
+ {
+   "Name": "Teses",
+   "BLAST Premier Spring Final": "1.08",
+   "BLAST Premier Fall Groups": "1.11",
+   "IEM Cologne 2023": "1.03",
+   "Gamers8 2023": "1.23",
+   "ESL Pro League Season 18": "0.82",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Heroic"
+ },
+ {
+   "Name": "Sjuush",
+   "BLAST Premier Spring Final": "1.01",
+   "BLAST Premier Fall Groups": "1.11",
+   "IEM Cologne 2023": "1.1",
+   "Gamers8 2023": "0.99",
+   "ESL Pro League Season 18": "0.97",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Heroic"
+ },
+ {
+   "Name": "Jabbi",
+   "BLAST Premier Spring Final": "1.18",
+   "BLAST Premier Fall Groups": "1.06",
+   "IEM Cologne 2023": "0.95",
+   "Gamers8 2023": "1.11",
+   "ESL Pro League Season 18": "1.01",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Heroic"
+ },
+ {
+   "Name": "Device",
+   "BLAST Premier Spring Final": "0.89",
+   "BLAST Premier Fall Groups": "1.21",
+   "IEM Cologne 2023": "1.29",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.09",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Astralis"
+ },
+ {
+   "Name": "Borup",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.03",
+   "IEM Cologne 2023": "0.88",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.9",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Astralis"
+ },
+ {
+   "Name": "Blamef",
+   "BLAST Premier Spring Final": "1.27",
+   "BLAST Premier Fall Groups": "1.33",
+   "IEM Cologne 2023": "1.16",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.3",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Astralis"
+ },
+ {
+   "Name": "Staehr",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.99",
+   "IEM Cologne 2023": "1.01",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.88",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Astralis"
+ },
+ {
+   "Name": "Buzz",
+   "BLAST Premier Spring Final": "0.82",
+   "BLAST Premier Fall Groups": "1.05",
+   "IEM Cologne 2023": "1.03",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.91",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Astralis"
+ },
+ {
+   "Name": "Karrigan",
+   "BLAST Premier Spring Final": "0.87",
+   "BLAST Premier Fall Groups": "0.94",
+   "IEM Cologne 2023": "0.75",
+   "Gamers8 2023": "0.9",
+   "ESL Pro League Season 18": "0.86",
+   "IEM Sydney 2023": "0.89",
+   "TeamName": "Faze"
+ },
+ {
+   "Name": "Rain",
+   "BLAST Premier Spring Final": "1",
+   "BLAST Premier Fall Groups": "1",
+   "IEM Cologne 2023": "0.98",
+   "Gamers8 2023": "0.99",
+   "ESL Pro League Season 18": "1.01",
+   "IEM Sydney 2023": "1.2",
+   "TeamName": "Faze"
+ },
+ {
+   "Name": "Twistzz",
+   "BLAST Premier Spring Final": "1.2",
+   "BLAST Premier Fall Groups": "1.29",
+   "IEM Cologne 2023": "0.94",
+   "Gamers8 2023": "1.15",
+   "ESL Pro League Season 18": "1.01",
+   "IEM Sydney 2023": "1.08",
+   "TeamName": "Faze"
+ },
+ {
+   "Name": "Ropz",
+   "BLAST Premier Spring Final": "1.04",
+   "BLAST Premier Fall Groups": "1.13",
+   "IEM Cologne 2023": "1.07",
+   "Gamers8 2023": "1.12",
+   "ESL Pro League Season 18": "1.18",
+   "IEM Sydney 2023": "1.19",
+   "TeamName": "Faze"
+ },
+ {
+   "Name": "Broky",
+   "BLAST Premier Spring Final": "1.12",
+   "BLAST Premier Fall Groups": "1.1",
+   "IEM Cologne 2023": "1",
+   "Gamers8 2023": "0.92",
+   "ESL Pro League Season 18": "1.13",
+   "IEM Sydney 2023": "1.24",
+   "TeamName": "Faze"
+ },
+ {
+   "Name": "Acor",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.08",
+   "Gamers8 2023": "0.96",
+   "ESL Pro League Season 18": "0.93",
+   "IEM Sydney 2023": "1.07",
+   "TeamName": "Gamer Legion"
+ },
+ {
+   "Name": "Nealan",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.77",
+   "Gamers8 2023": "0.99",
+   "ESL Pro League Season 18": "0.92",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Gamer Legion"
+ },
+ {
+   "Name": "Keoz",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1",
+   "Gamers8 2023": "0.75",
+   "ESL Pro League Season 18": "0.9",
+   "IEM Sydney 2023": "0.97",
+   "TeamName": "Gamer Legion"
+ },
+ {
+   "Name": "Isak",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.05",
+   "Gamers8 2023": "1.05",
+   "ESL Pro League Season 18": "0.95",
+   "IEM Sydney 2023": "0.92",
+   "TeamName": "Gamer Legion"
+ },
+ {
+   "Name": "Volt",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.97",
+   "Gamers8 2023": "0.93",
+   "ESL Pro League Season 18": "0.93",
+   "IEM Sydney 2023": "1.14",
+   "TeamName": "Gamer Legion"
+ },
+ {
+   "Name": "Hobbit",
+   "BLAST Premier Spring Final": "0.9",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.11",
+   "Gamers8 2023": "0.86",
+   "ESL Pro League Season 18": "0.78",
+   "IEM Sydney 2023": "1.07",
+   "TeamName": "Cloud9"
+ },
+ {
+   "Name": "Electronic",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.01",
+   "Gamers8 2023": "0.99",
+   "ESL Pro League Season 18": "1.02",
+   "IEM Sydney 2023": "1.36",
+   "TeamName": "Cloud9"
+ },
+ {
+   "Name": "Ax1le",
+   "BLAST Premier Spring Final": "1.24",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.99",
+   "Gamers8 2023": "0.82",
+   "ESL Pro League Season 18": "1.05",
+   "IEM Sydney 2023": "0.78",
+   "TeamName": "Cloud9"
+ },
+ {
+   "Name": "Sh1ro",
+   "BLAST Premier Spring Final": "1.19",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.23",
+   "Gamers8 2023": "1.1",
+   "ESL Pro League Season 18": "1.18",
+   "IEM Sydney 2023": "0.96",
+   "TeamName": "Cloud9"
+ },
+ {
+   "Name": "Perfecto",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.08",
+   "Gamers8 2023": "1.12",
+   "ESL Pro League Season 18": "0.93",
+   "IEM Sydney 2023": "1.01",
+   "TeamName": "Cloud9"
+ },
+ {
+   "Name": "S1mple",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.18",
+   "IEM Cologne 2023": "1.14",
+   "Gamers8 2023": "1.09",
+   "ESL Pro League Season 18": "1.19",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Natus Vincere"
+ },
+ {
+   "Name": "Aleksib",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1",
+   "IEM Cologne 2023": "0.89",
+   "Gamers8 2023": "0.96",
+   "ESL Pro League Season 18": "1.01",
+   "IEM Sydney 2023": "1.04",
+   "TeamName": "Natus Vincere"
+ },
+ {
+   "Name": "Im",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.99",
+   "IEM Cologne 2023": "0.92",
+   "Gamers8 2023": "0.95",
+   "ESL Pro League Season 18": "1.1",
+   "IEM Sydney 2023": "0.93",
+   "TeamName": "Natus Vincere"
+ },
+ {
+   "Name": "Bit",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.02",
+   "IEM Cologne 2023": "1.11",
+   "Gamers8 2023": "1.04",
+   "ESL Pro League Season 18": "1.17",
+   "IEM Sydney 2023": "1.23",
+   "TeamName": "Natus Vincere"
+ },
+ {
+   "Name": "Jl",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.01",
+   "IEM Cologne 2023": "1.03",
+   "Gamers8 2023": "0.8",
+   "ESL Pro League Season 18": "1.05",
+   "IEM Sydney 2023": "1.21",
+   "TeamName": "Natus Vincere"
+ },
+ {
+   "Name": "Frozen",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.18",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.22",
+   "IEM Sydney 2023": "1.07",
+   "TeamName": "Mouz"
+ },
+ {
+   "Name": "Siuhy",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.79",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.04",
+   "IEM Sydney 2023": "1.01",
+   "TeamName": "Mouz"
+ },
+ {
+   "Name": "Torzsi",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.97",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.21",
+   "IEM Sydney 2023": "1.12",
+   "TeamName": "Mouz"
+ },
+ {
+   "Name": "Jimpphat",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.92",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.17",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Mouz"
+ },
+ {
+   "Name": "Xertion",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.98",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.16",
+   "IEM Sydney 2023": "0.92",
+   "TeamName": "Mouz"
+ },
+ {
+   "Name": "Sdy",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.12",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.1",
+   "IEM Sydney 2023": "1.1",
+   "TeamName": "Monte"
+ },
+ {
+   "Name": "Bro",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.03",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.08",
+   "IEM Sydney 2023": "1.17",
+   "TeamName": "Monte"
+ },
+ {
+   "Name": "Woro2k",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.1",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.08",
+   "IEM Sydney 2023": "1.03",
+   "TeamName": "Monte"
+ },
+ {
+   "Name": "Demqq",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.94",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.12",
+   "IEM Sydney 2023": "1.18",
+   "TeamName": "Monte"
+ },
+ {
+   "Name": "Krasnal",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.88",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.01",
+   "IEM Sydney 2023": "1.22",
+   "TeamName": "Monte"
+ },
+ {
+   "Name": "Konfig",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.1",
+   "IEM Cologne 2023": "0.92",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.93",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Ninjas in Pyjamas"
+ },
+ {
+   "Name": "Rez",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1",
+   "IEM Cologne 2023": "0.86",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.08",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Ninjas in Pyjamas"
+ },
+ {
+   "Name": "Hampus",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.91",
+   "IEM Cologne 2023": "0.7",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.96",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Ninjas in Pyjamas"
+ },
+ {
+   "Name": "Brollan",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.03",
+   "IEM Cologne 2023": "0.75",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.97",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Ninjas in Pyjamas"
+ },
+ {
+   "Name": "Headtr1ck",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.05",
+   "IEM Cologne 2023": "0.99",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.07",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Ninjas in Pyjamas"
+ },
+ {
+   "Name": "Mir",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "1.11",
+   "ESL Pro League Season 18": "1.01",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Virtus Pro"
+ },
+ {
+   "Name": "Flit",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "1.02",
+   "ESL Pro League Season 18": "1",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Virtus Pro"
+ },
+ {
+   "Name": "Jame",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.94",
+   "ESL Pro League Season 18": "1.19",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Virtus Pro"
+ },
+ {
+   "Name": "N0rb3r7",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.94",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Virtus Pro"
+ },
+ {
+   "Name": "Fame",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "1.14",
+   "ESL Pro League Season 18": "0.99",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Virtus Pro"
+ },
+ {
+   "Name": "Styko",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.76",
+   "ESL Pro League Season 18": "0.94",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Apeks"
+ },
+ {
+   "Name": "Jkaem",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "1.09",
+   "ESL Pro League Season 18": "1.1",
+   "IEM Sydney 2023": "1.1",
+   "TeamName": "Apeks"
+ },
+ {
+   "Name": "Nawwk",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "1.07",
+   "ESL Pro League Season 18": "0.95",
+   "IEM Sydney 2023": "0.91",
+   "TeamName": "Apeks"
+ },
+ {
+   "Name": "Cacanito",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "1.19",
+   "ESL Pro League Season 18": "0.99",
+   "IEM Sydney 2023": "0.86",
+   "TeamName": "Apeks"
+ },
+ {
+   "Name": "Kyxsan",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.83",
+   "ESL Pro League Season 18": "0.93",
+   "IEM Sydney 2023": "0.95",
+   "TeamName": "Apeks"
+ },
+ {
+   "Name": "Krimz",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.93",
+   "Gamers8 2023": "0.98",
+   "ESL Pro League Season 18": "1.03",
+   "IEM Sydney 2023": "1.08",
+   "TeamName": "Fnatic"
+ },
+ {
+   "Name": "Dexter",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.99",
+   "Gamers8 2023": "0.87",
+   "ESL Pro League Season 18": "0.81",
+   "IEM Sydney 2023": "0.95",
+   "TeamName": "Fnatic"
+ },
+ {
+   "Name": "Roej",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.98",
+   "Gamers8 2023": "0.98",
+   "ESL Pro League Season 18": "0.89",
+   "IEM Sydney 2023": "0.98",
+   "TeamName": "Fnatic"
+ },
+ {
+   "Name": "Mezii",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.01",
+   "Gamers8 2023": "0.96",
+   "ESL Pro League Season 18": "1.13",
+   "IEM Sydney 2023": "1.04",
+   "TeamName": "Fnatic"
+ },
+ {
+   "Name": "Afro",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.16",
+   "Gamers8 2023": "0.95",
+   "ESL Pro League Season 18": "1.04",
+   "IEM Sydney 2023": "1.09",
+   "TeamName": "Fnatic"
+ },
+ {
+   "Name": "Naf",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.04",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.94",
+   "ESL Pro League Season 18": "1.04",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Team Liquid"
+ },
+ {
+   "Name": "Osee",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.01",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "1.28",
+   "ESL Pro League Season 18": "1.01",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Team Liquid"
+ },
+ {
+   "Name": "Yekindar",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.91",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "1.16",
+   "ESL Pro League Season 18": "1.04",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Team Liquid"
+ },
+ {
+   "Name": "Rainwaker",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.95",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.61",
+   "ESL Pro League Season 18": "1.03",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Team Liquid"
+ },
+ {
+   "Name": "Patsi",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.05",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.8",
+   "ESL Pro League Season 18": "1.01",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Team Liquid"
+ },
+ {
+   "Name": "Hen1",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.04",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Imperial"
+ },
+ {
+   "Name": "Boltz",
+   "BLAST Premier Spring Final": "0.98",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.12",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Imperial"
+ },
+ {
+   "Name": "Felps",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.14",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Imperial"
+ },
+ {
+   "Name": "Vini",
+   "BLAST Premier Spring Final": "1.08",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.99",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Imperial"
+ },
+ {
+   "Name": "Jota",
+   "BLAST Premier Spring Final": "1.11",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.06",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Imperial"
+ },
+ {
+   "Name": "Fallen",
+   "BLAST Premier Spring Final": "1.02",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "1.08",
+   "ESL Pro League Season 18": "0.97",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Furia"
+ },
+ {
+   "Name": "Chelo",
+   "BLAST Premier Spring Final": "1.07",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.86",
+   "ESL Pro League Season 18": "0.99",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Furia"
+ },
+ {
+   "Name": "Art",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.87",
+   "ESL Pro League Season 18": "1.07",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Furia"
+ },
+ {
+   "Name": "Yuurih",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.84",
+   "ESL Pro League Season 18": "1.06",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Furia"
+ },
+ {
+   "Name": "Kscerato",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "1.19",
+   "ESL Pro League Season 18": "1.27",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Furia"
+ },
+ {
+   "Name": "Mynio",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.91",
+   "Gamers8 2023": "1.02",
+   "ESL Pro League Season 18": "0.87",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "9INE"
+ },
+ {
+   "Name": "Goofy",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.06",
+   "Gamers8 2023": "1.07",
+   "ESL Pro League Season 18": "1.01",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "9INE"
+ },
+ {
+   "Name": "Hades",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.03",
+   "Gamers8 2023": "1.15",
+   "ESL Pro League Season 18": "0.98",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "9INE"
+ },
+ {
+   "Name": "Kei",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.11",
+   "Gamers8 2023": "0.98",
+   "ESL Pro League Season 18": "1.03",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "9INE"
+ },
+ {
+   "Name": "Kylar",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1",
+   "Gamers8 2023": "0.83",
+   "ESL Pro League Season 18": "1.02",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "9INE"
+ },
+ {
+   "Name": "Tabsen",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.92",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.09",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "BIG"
+ },
+ {
+   "Name": "Mantuu",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.1",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.05",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "BIG"
+ },
+ {
+   "Name": "Prosus",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.84",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.08",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "BIG"
+ },
+ {
+   "Name": "Krimbo",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.07",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.17",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "BIG"
+ },
+ {
+   "Name": "S1n",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.92",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.9",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "BIG"
+ },
+ {
+   "Name": "Chopper",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Spirit"
+ },
+ {
+   "Name": "Magixx",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Spirit"
+ },
+ {
+   "Name": "Zont1x",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Spirit"
+ },
+ {
+   "Name": "Donk",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Spirit"
+ },
+ {
+   "Name": "Artfr0st",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Spirit"
+ },
+ {
+   "Name": "Elige",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "1.1",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.03",
+   "IEM Sydney 2023": "1.25",
+   "TeamName": "Complexity"
+ },
+ {
+   "Name": "Jt",
+   "BLAST Premier Spring Final": "0.82",
+   "BLAST Premier Fall Groups": "0.79",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.87",
+   "IEM Sydney 2023": "1.06",
+   "TeamName": "Complexity"
+ },
+ {
+   "Name": "Floppy",
+   "BLAST Premier Spring Final": "1.1",
+   "BLAST Premier Fall Groups": "0.98",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.14",
+   "IEM Sydney 2023": "1.16",
+   "TeamName": "Complexity"
+ },
+ {
+   "Name": "Hallzerk",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.92",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.04",
+   "IEM Sydney 2023": "1.08",
+   "TeamName": "Complexity"
+ },
+ {
+   "Name": "Grim",
+   "BLAST Premier Spring Final": "0.98",
+   "BLAST Premier Fall Groups": "0.92",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.09",
+   "IEM Sydney 2023": "1.13",
+   "TeamName": "Complexity"
+ },
+ {
+   "Name": "Exit",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.87",
+   "ESL Pro League Season 18": "0.98",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "MIBR"
+ },
+ {
+   "Name": "Saffee",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.9",
+   "ESL Pro League Season 18": "1.14",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "MIBR"
+ },
+ {
+   "Name": "Drop",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.92",
+   "ESL Pro League Season 18": "0.96",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "MIBR"
+ },
+ {
+   "Name": "Brnz4n",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.62",
+   "ESL Pro League Season 18": "1",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "MIBR"
+ },
+ {
+   "Name": "Insani",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "0.71",
+   "ESL Pro League Season 18": "1.08",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "MIBR"
+ },
+ {
+   "Name": "Nexa",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.81",
+   "IEM Cologne 2023": "0.86",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "OG"
+ },
+ {
+   "Name": "Fashr",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.91",
+   "IEM Cologne 2023": "0.91",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "OG"
+ },
+ {
+   "Name": "K1to",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.92",
+   "IEM Cologne 2023": "0.81",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "OG"
+ },
+ {
+   "Name": "F1ku",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.96",
+   "IEM Cologne 2023": "0.95",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "OG"
+ },
+ {
+   "Name": "Regali",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "0.99",
+   "IEM Cologne 2023": "0.98",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "OG"
+ },
+ {
+   "Name": "Blitz",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.16",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "TheMongolz"
+ },
+ {
+   "Name": "Techno",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.92",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "TheMongolz"
+ },
+ {
+   "Name": "Senzu",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "TheMongolz"
+ },
+ {
+   "Name": "Mzinho",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "0.89",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "TheMongolz"
+ },
+ {
+   "Name": "910",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "1.01",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "TheMongolz"
+ },
+ {
+   "Name": "Alex",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Movistar Rider"
+ },
+ {
+   "Name": "Just",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.08",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Movistar Rider"
+ },
+ {
+   "Name": "Mopoz",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.99",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Movistar Rider"
+ },
+ {
+   "Name": "Adams",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.93",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Movistar Rider"
+ },
+ {
+   "Name": "Martinez",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.06",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Movistar Rider"
+ },
+ {
+   "Name": "Nickelback",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "1WIN"
+ },
+ {
+   "Name": "Boombl4",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "1WIN"
+ },
+ {
+   "Name": "Forester",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "1WIN"
+ },
+ {
+   "Name": "Travis",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "1WIN"
+ },
+ {
+   "Name": "Deko",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "1WIN"
+ },
+ {
+   "Name": "Rigon",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Bad News Eagles"
+ },
+ {
+   "Name": "Sener1",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Bad News Eagles"
+ },
+ {
+   "Name": "Juanflatroo",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Bad News Eagles"
+ },
+ {
+   "Name": "Sinnopsyy",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Bad News Eagles"
+ },
+ {
+   "Name": "Gxx-",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Bad News Eagles"
+ },
+ {
+   "Name": "Lack1",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Aurora"
+ },
+ {
+   "Name": "Sellter",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Aurora"
+ },
+ {
+   "Name": "Kensi",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Aurora"
+ },
+ {
+   "Name": "Norwi",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Aurora"
+ },
+ {
+   "Name": "Lattykk",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "NA",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Aurora"
+ },
+ {
+   "Name": "Autimatic",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.83",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Evil Geniuses "
+ },
+ {
+   "Name": "Junior",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.89",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Evil Geniuses "
+ },
+ {
+   "Name": "Walco",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.78",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Evil Geniuses "
+ },
+ {
+   "Name": "Hext",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "1.09",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Evil Geniuses "
+ },
+ {
+   "Name": "Jeorge",
+   "BLAST Premier Spring Final": "NA",
+   "BLAST Premier Fall Groups": "NA",
+   "IEM Cologne 2023": "NA",
+   "Gamers8 2023": "NA",
+   "ESL Pro League Season 18": "0.91",
+   "IEM Sydney 2023": "NA",
+   "TeamName": "Evil Geniuses "
+ }
+]

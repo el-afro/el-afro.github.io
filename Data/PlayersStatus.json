@@ -1,0 +1,1352 @@
+[
+ {
+   "Name": "Apex",
+   "Rating 2.0": 0.97,
+   "Headshot %": 42.5,
+   "KPR (kill per round)": 0.57,
+   "KAST %": 69.5,
+   "Impact": 0.88,
+   "TeamName": "Vitality"
+ },
+ {
+   "Name": "Magisk",
+   "Rating 2.0": 1.14,
+   "Headshot %": 48.8,
+   "KPR (kill per round)": 0.7,
+   "KAST %": 74.1,
+   "Impact": 1.08,
+   "TeamName": "Vitality"
+ },
+ {
+   "Name": "Zywoo",
+   "Rating 2.0": 1.26,
+   "Headshot %": 43.6,
+   "KPR (kill per round)": 0.78,
+   "KAST %": 75.8,
+   "Impact": 1.32,
+   "TeamName": "Vitality"
+ },
+ {
+   "Name": "Flamez",
+   "Rating 2.0": 1.13,
+   "Headshot %": 46,
+   "KPR (kill per round)": 0.69,
+   "KAST %": 75.1,
+   "Impact": 1.08,
+   "TeamName": "Vitality"
+ },
+ {
+   "Name": "Spinx",
+   "Rating 2.0": 1.17,
+   "Headshot %": 51.2,
+   "KPR (kill per round)": 0.75,
+   "KAST %": 75.7,
+   "Impact": 1.09,
+   "TeamName": "Vitality"
+ },
+ {
+   "Name": "Snappi",
+   "Rating 2.0": 0.92,
+   "Headshot %": 47.6,
+   "KPR (kill per round)": 0.58,
+   "KAST %": 68.2,
+   "Impact": 0.84,
+   "TeamName": "ENCE"
+ },
+ {
+   "Name": "Nertz",
+   "Rating 2.0": 1.14,
+   "Headshot %": 47.7,
+   "KPR (kill per round)": 0.74,
+   "KAST %": 70.9,
+   "Impact": 1.15,
+   "TeamName": "ENCE"
+ },
+ {
+   "Name": "Maden",
+   "Rating 2.0": 1.01,
+   "Headshot %": 46.9,
+   "KPR (kill per round)": 0.65,
+   "KAST %": 69.8,
+   "Impact": 0.96,
+   "TeamName": "ENCE"
+ },
+ {
+   "Name": "Dycha",
+   "Rating 2.0": 1.04,
+   "Headshot %": 48.3,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 70.2,
+   "Impact": 1.03,
+   "TeamName": "ENCE"
+ },
+ {
+   "Name": "Sunpayus",
+   "Rating 2.0": 1.2,
+   "Headshot %": 28.3,
+   "KPR (kill per round)": 0.75,
+   "KAST %": 73.7,
+   "Impact": 1.18,
+   "TeamName": "ENCE"
+ },
+ {
+   "Name": "Niko",
+   "Rating 2.0": 1.31,
+   "Headshot %": 55,
+   "KPR (kill per round)": 0.83,
+   "KAST %": 75.4,
+   "Impact": 1.37,
+   "TeamName": "G2"
+ },
+ {
+   "Name": "M0nesy",
+   "Rating 2.0": 1.16,
+   "Headshot %": 39.7,
+   "KPR (kill per round)": 0.75,
+   "KAST %": 71.2,
+   "Impact": 1.16,
+   "TeamName": "G2"
+ },
+ {
+   "Name": "Hooxi",
+   "Rating 2.0": 0.86,
+   "Headshot %": 47.7,
+   "KPR (kill per round)": 0.5,
+   "KAST %": 68.2,
+   "Impact": 0.78,
+   "TeamName": "G2"
+ },
+ {
+   "Name": "Jks",
+   "Rating 2.0": 1.01,
+   "Headshot %": 56,
+   "KPR (kill per round)": 0.59,
+   "KAST %": 74.8,
+   "Impact": 0.78,
+   "TeamName": "G2"
+ },
+ {
+   "Name": "Hunter",
+   "Rating 2.0": 1.13,
+   "Headshot %": 46.4,
+   "KPR (kill per round)": 0.73,
+   "KAST %": 73.3,
+   "Impact": 1.09,
+   "TeamName": "G2"
+ },
+ {
+   "Name": "Cadian",
+   "Rating 2.0": 1.07,
+   "Headshot %": 29.5,
+   "KPR (kill per round)": 0.66,
+   "KAST %": 70.1,
+   "Impact": 1.04,
+   "TeamName": "Heroic"
+ },
+ {
+   "Name": "Stavn",
+   "Rating 2.0": 1.16,
+   "Headshot %": 45.2,
+   "KPR (kill per round)": 0.75,
+   "KAST %": 73.5,
+   "Impact": 1.15,
+   "TeamName": "Heroic"
+ },
+ {
+   "Name": "Teses",
+   "Rating 2.0": 1.06,
+   "Headshot %": 51.2,
+   "KPR (kill per round)": 0.67,
+   "KAST %": 73.2,
+   "Impact": 0.98,
+   "TeamName": "Heroic"
+ },
+ {
+   "Name": "Sjuush",
+   "Rating 2.0": 1.08,
+   "Headshot %": 48.9,
+   "KPR (kill per round)": 0.67,
+   "KAST %": 73.7,
+   "Impact": 0.96,
+   "TeamName": "Heroic"
+ },
+ {
+   "Name": "Jabbi",
+   "Rating 2.0": 1.02,
+   "Headshot %": 54.1,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 70.9,
+   "Impact": 1.02,
+   "TeamName": "Heroic"
+ },
+ {
+   "Name": "Device",
+   "Rating 2.0": 1.22,
+   "Headshot %": 24.5,
+   "KPR (kill per round)": 0.75,
+   "KAST %": 74.1,
+   "Impact": 1.21,
+   "TeamName": "Astralis"
+ },
+ {
+   "Name": "Borup",
+   "Rating 2.0": 0.95,
+   "Headshot %": 60.9,
+   "KPR (kill per round)": 0.59,
+   "KAST %": 69.3,
+   "Impact": 0.91,
+   "TeamName": "Astralis"
+ },
+ {
+   "Name": "Blamef",
+   "Rating 2.0": 1.25,
+   "Headshot %": 34.1,
+   "KPR (kill per round)": 0.74,
+   "KAST %": 75.8,
+   "Impact": 1.24,
+   "TeamName": "Astralis"
+ },
+ {
+   "Name": "Staehr",
+   "Rating 2.0": 0.99,
+   "Headshot %": 46.4,
+   "KPR (kill per round)": 0.61,
+   "KAST %": 70.7,
+   "Impact": 0.85,
+   "TeamName": "Astralis"
+ },
+ {
+   "Name": "Buzz",
+   "Rating 2.0": 1.05,
+   "Headshot %": 44.7,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 73.2,
+   "Impact": 0.97,
+   "TeamName": "Astralis"
+ },
+ {
+   "Name": "Karrigan",
+   "Rating 2.0": 0.87,
+   "Headshot %": 44.2,
+   "KPR (kill per round)": 0.52,
+   "KAST %": 66,
+   "Impact": 0.79,
+   "TeamName": "Faze"
+ },
+ {
+   "Name": "Rain",
+   "Rating 2.0": 1.04,
+   "Headshot %": 55.3,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 68.2,
+   "Impact": 1.1,
+   "TeamName": "Faze"
+ },
+ {
+   "Name": "Twistzz",
+   "Rating 2.0": 1.16,
+   "Headshot %": 60.1,
+   "KPR (kill per round)": 0.73,
+   "KAST %": 76,
+   "Impact": 1.07,
+   "TeamName": "Faze"
+ },
+ {
+   "Name": "Ropz",
+   "Rating 2.0": 1.16,
+   "Headshot %": 59.1,
+   "KPR (kill per round)": 0.77,
+   "KAST %": 72.7,
+   "Impact": 1.14,
+   "TeamName": "Faze"
+ },
+ {
+   "Name": "Broky",
+   "Rating 2.0": 1.08,
+   "Headshot %": 29.8,
+   "KPR (kill per round)": 0.66,
+   "KAST %": 71.7,
+   "Impact": 0.94,
+   "TeamName": "Faze"
+ },
+ {
+   "Name": "Acor",
+   "Rating 2.0": 0.99,
+   "Headshot %": 29.6,
+   "KPR (kill per round)": 0.66,
+   "KAST %": 64.8,
+   "Impact": 1.03,
+   "TeamName": "Gamer Legion"
+ },
+ {
+   "Name": "Nealan",
+   "Rating 2.0": 0.87,
+   "Headshot %": 53,
+   "KPR (kill per round)": 0.56,
+   "KAST %": 64.4,
+   "Impact": 0.8,
+   "TeamName": "Gamer Legion"
+ },
+ {
+   "Name": "Keoz",
+   "Rating 2.0": 0.91,
+   "Headshot %": 56.7,
+   "KPR (kill per round)": 0.61,
+   "KAST %": 64.8,
+   "Impact": 0.93,
+   "TeamName": "Gamer Legion"
+ },
+ {
+   "Name": "Isak",
+   "Rating 2.0": 1.01,
+   "Headshot %": 45,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 69.3,
+   "Impact": 0.95,
+   "TeamName": "Gamer Legion"
+ },
+ {
+   "Name": "Volt",
+   "Rating 2.0": 0.95,
+   "Headshot %": 50.2,
+   "KPR (kill per round)": 0.61,
+   "KAST %": 66.4,
+   "Impact": 0.92,
+   "TeamName": "Gamer Legion"
+ },
+ {
+   "Name": "Hobbit",
+   "Rating 2.0": 1.06,
+   "Headshot %": 46.4,
+   "KPR (kill per round)": 0.67,
+   "KAST %": 71.5,
+   "Impact": 1.03,
+   "TeamName": "Cloud9"
+ },
+ {
+   "Name": "Electronic",
+   "Rating 2.0": 1,
+   "Headshot %": 52.1,
+   "KPR (kill per round)": 0.65,
+   "KAST %": 67.9,
+   "Impact": 1.09,
+   "TeamName": "Cloud9"
+ },
+ {
+   "Name": "Ax1le",
+   "Rating 2.0": 0.88,
+   "Headshot %": 41.9,
+   "KPR (kill per round)": 0.58,
+   "KAST %": 64.6,
+   "Impact": 0.96,
+   "TeamName": "Cloud9"
+ },
+ {
+   "Name": "Sh1ro",
+   "Rating 2.0": 1.21,
+   "Headshot %": 30.8,
+   "KPR (kill per round)": 0.79,
+   "KAST %": 75.6,
+   "Impact": 1.14,
+   "TeamName": "Cloud9"
+ },
+ {
+   "Name": "Perfecto",
+   "Rating 2.0": 1.09,
+   "Headshot %": 39.7,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 75.4,
+   "Impact": 0.86,
+   "TeamName": "Cloud9"
+ },
+ {
+   "Name": "S1mple",
+   "Rating 2.0": 1.16,
+   "Headshot %": 41.4,
+   "KPR (kill per round)": 0.75,
+   "KAST %": 72.3,
+   "Impact": 1.14,
+   "TeamName": "Natus Vincere"
+ },
+ {
+   "Name": "Aleksib",
+   "Rating 2.0": 0.97,
+   "Headshot %": 42.2,
+   "KPR (kill per round)": 0.56,
+   "KAST %": 70.1,
+   "Impact": 0.88,
+   "TeamName": "Natus Vincere"
+ },
+ {
+   "Name": "Im",
+   "Rating 2.0": 1.01,
+   "Headshot %": 42.1,
+   "KPR (kill per round)": 0.67,
+   "KAST %": 68.4,
+   "Impact": 1.05,
+   "TeamName": "Natus Vincere"
+ },
+ {
+   "Name": "Bit",
+   "Rating 2.0": 1.1,
+   "Headshot %": 61.7,
+   "KPR (kill per round)": 0.69,
+   "KAST %": 72.5,
+   "Impact": 1.04,
+   "TeamName": "Natus Vincere"
+ },
+ {
+   "Name": "Jl",
+   "Rating 2.0": 1.02,
+   "Headshot %": 50.2,
+   "KPR (kill per round)": 0.66,
+   "KAST %": 69.4,
+   "Impact": 0.95,
+   "TeamName": "Natus Vincere"
+ },
+ {
+   "Name": "Frozen",
+   "Rating 2.0": 1.26,
+   "Headshot %": 53.7,
+   "KPR (kill per round)": 0.79,
+   "KAST %": 75.6,
+   "Impact": 1.18,
+   "TeamName": "Mouz"
+ },
+ {
+   "Name": "Siuhy",
+   "Rating 2.0": 0.97,
+   "Headshot %": 49.1,
+   "KPR (kill per round)": 0.6,
+   "KAST %": 71.1,
+   "Impact": 0.87,
+   "TeamName": "Mouz"
+ },
+ {
+   "Name": "Torzsi",
+   "Rating 2.0": 1.21,
+   "Headshot %": 30.4,
+   "KPR (kill per round)": 0.74,
+   "KAST %": 76.9,
+   "Impact": 1.13,
+   "TeamName": "Mouz"
+ },
+ {
+   "Name": "Jimpphat",
+   "Rating 2.0": 1.04,
+   "Headshot %": 50.7,
+   "KPR (kill per round)": 0.59,
+   "KAST %": 75.1,
+   "Impact": 0.86,
+   "TeamName": "Mouz"
+ },
+ {
+   "Name": "Xertion",
+   "Rating 2.0": 1.07,
+   "Headshot %": 49.4,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 69.9,
+   "Impact": 1.15,
+   "TeamName": "Mouz"
+ },
+ {
+   "Name": "Sdy",
+   "Rating 2.0": 1.06,
+   "Headshot %": 42.7,
+   "KPR (kill per round)": 0.69,
+   "KAST %": 70.8,
+   "Impact": 1.02,
+   "TeamName": "Monte"
+ },
+ {
+   "Name": "Bro",
+   "Rating 2.0": 0.96,
+   "Headshot %": 55.8,
+   "KPR (kill per round)": 0.61,
+   "KAST %": 69.5,
+   "Impact": 0.86,
+   "TeamName": "Monte"
+ },
+ {
+   "Name": "Woro2k",
+   "Rating 2.0": 1.15,
+   "Headshot %": 31.9,
+   "KPR (kill per round)": 0.76,
+   "KAST %": 70.7,
+   "Impact": 1.19,
+   "TeamName": "Monte"
+ },
+ {
+   "Name": "Demqq",
+   "Rating 2.0": 1.11,
+   "Headshot %": 52,
+   "KPR (kill per round)": 0.69,
+   "KAST %": 71.8,
+   "Impact": 1.12,
+   "TeamName": "Monte"
+ },
+ {
+   "Name": "Krasnal",
+   "Rating 2.0": 1,
+   "Headshot %": 46.6,
+   "KPR (kill per round)": 0.65,
+   "KAST %": 68.9,
+   "Impact": 0.99,
+   "TeamName": "Monte"
+ },
+ {
+   "Name": "Konfig",
+   "Rating 2.0": 0.99,
+   "Headshot %": 60.6,
+   "KPR (kill per round)": 0.66,
+   "KAST %": 68.3,
+   "Impact": 0.99,
+   "TeamName": "Ninjas in Pyjamas"
+ },
+ {
+   "Name": "Rez",
+   "Rating 2.0": 0.98,
+   "Headshot %": 50.9,
+   "KPR (kill per round)": 0.6,
+   "KAST %": 70.7,
+   "Impact": 0.85,
+   "TeamName": "Ninjas in Pyjamas"
+ },
+ {
+   "Name": "Hampus",
+   "Rating 2.0": 0.97,
+   "Headshot %": 37.9,
+   "KPR (kill per round)": 0.61,
+   "KAST %": 67,
+   "Impact": 0.92,
+   "TeamName": "Ninjas in Pyjamas"
+ },
+ {
+   "Name": "Brollan",
+   "Rating 2.0": 0.99,
+   "Headshot %": 58,
+   "KPR (kill per round)": 0.62,
+   "KAST %": 69.9,
+   "Impact": 1.02,
+   "TeamName": "Ninjas in Pyjamas"
+ },
+ {
+   "Name": "Headtr1ck",
+   "Rating 2.0": 1.07,
+   "Headshot %": 29.6,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 70.8,
+   "Impact": 0.97,
+   "TeamName": "Ninjas in Pyjamas"
+ },
+ {
+   "Name": "Mir",
+   "Rating 2.0": 1.11,
+   "Headshot %": 51,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 74,
+   "Impact": 1.03,
+   "TeamName": "Virtus Pro"
+ },
+ {
+   "Name": "Flit",
+   "Rating 2.0": 1.14,
+   "Headshot %": 46.9,
+   "KPR (kill per round)": 0.67,
+   "KAST %": 71.2,
+   "Impact": 1.19,
+   "TeamName": "Virtus Pro"
+ },
+ {
+   "Name": "Jame",
+   "Rating 2.0": 1.19,
+   "Headshot %": 28.5,
+   "KPR (kill per round)": 0.7,
+   "KAST %": 77.7,
+   "Impact": 1.07,
+   "TeamName": "Virtus Pro"
+ },
+ {
+   "Name": "N0rb3r7",
+   "Rating 2.0": 1.05,
+   "Headshot %": 58,
+   "KPR (kill per round)": 0.6,
+   "KAST %": 72.2,
+   "Impact": 0.99,
+   "TeamName": "Virtus Pro"
+ },
+ {
+   "Name": "Fame",
+   "Rating 2.0": 1.16,
+   "Headshot %": 58.1,
+   "KPR (kill per round)": 0.71,
+   "KAST %": 74.7,
+   "Impact": 1.1,
+   "TeamName": "Virtus Pro"
+ },
+ {
+   "Name": "Styko",
+   "Rating 2.0": 0.98,
+   "Headshot %": 55.6,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 70.5,
+   "Impact": 0.84,
+   "TeamName": "Apeks"
+ },
+ {
+   "Name": "Jkaem",
+   "Rating 2.0": 1.11,
+   "Headshot %": 50.5,
+   "KPR (kill per round)": 0.73,
+   "KAST %": 67,
+   "Impact": 1.32,
+   "TeamName": "Apeks"
+ },
+ {
+   "Name": "Nawwk",
+   "Rating 2.0": 1.07,
+   "Headshot %": 34.9,
+   "KPR (kill per round)": 0.67,
+   "KAST %": 72.6,
+   "Impact": 0.96,
+   "TeamName": "Apeks"
+ },
+ {
+   "Name": "Cacanito",
+   "Rating 2.0": 1.05,
+   "Headshot %": 49.2,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 70.3,
+   "Impact": 1.04,
+   "TeamName": "Apeks"
+ },
+ {
+   "Name": "Kyxsan",
+   "Rating 2.0": 1,
+   "Headshot %": 47.5,
+   "KPR (kill per round)": 0.63,
+   "KAST %": 73.3,
+   "Impact": 0.85,
+   "TeamName": "Apeks"
+ },
+ {
+   "Name": "Krimz",
+   "Rating 2.0": 1.01,
+   "Headshot %": 44.2,
+   "KPR (kill per round)": 0.61,
+   "KAST %": 70.5,
+   "Impact": 0.86,
+   "TeamName": "Fnatic"
+ },
+ {
+   "Name": "Dexter",
+   "Rating 2.0": 0.89,
+   "Headshot %": 52.3,
+   "KPR (kill per round)": 0.59,
+   "KAST %": 66.8,
+   "Impact": 0.8,
+   "TeamName": "Fnatic"
+ },
+ {
+   "Name": "Roej",
+   "Rating 2.0": 1,
+   "Headshot %": 48.6,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 66.2,
+   "Impact": 1.08,
+   "TeamName": "Fnatic"
+ },
+ {
+   "Name": "Mezii",
+   "Rating 2.0": 1.11,
+   "Headshot %": 51.6,
+   "KPR (kill per round)": 0.7,
+   "KAST %": 72,
+   "Impact": 1.09,
+   "TeamName": "Fnatic"
+ },
+ {
+   "Name": "Afro",
+   "Rating 2.0": 1.13,
+   "Headshot %": 28.3,
+   "KPR (kill per round)": 0.73,
+   "KAST %": 69.8,
+   "Impact": 1.16,
+   "TeamName": "Fnatic"
+ },
+ {
+   "Name": "Naf",
+   "Rating 2.0": 1.08,
+   "Headshot %": 44.1,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 70.7,
+   "Impact": 0.99,
+   "TeamName": "Team Liquid"
+ },
+ {
+   "Name": "Osee",
+   "Rating 2.0": 1.03,
+   "Headshot %": 26.3,
+   "KPR (kill per round)": 0.67,
+   "KAST %": 68.1,
+   "Impact": 0.97,
+   "TeamName": "Team Liquid"
+ },
+ {
+   "Name": "Yekindar",
+   "Rating 2.0": 1.01,
+   "Headshot %": 57.5,
+   "KPR (kill per round)": 0.63,
+   "KAST %": 66.9,
+   "Impact": 1.07,
+   "TeamName": "Team Liquid"
+ },
+ {
+   "Name": "Rainwaker",
+   "Rating 2.0": 0.9,
+   "Headshot %": 41.1,
+   "KPR (kill per round)": 0.54,
+   "KAST %": 68.6,
+   "Impact": 0.8,
+   "TeamName": "Team Liquid"
+ },
+ {
+   "Name": "Patsi",
+   "Rating 2.0": 1.09,
+   "Headshot %": 44.2,
+   "KPR (kill per round)": 0.71,
+   "KAST %": 69.2,
+   "Impact": 1.15,
+   "TeamName": "Team Liquid"
+ },
+ {
+   "Name": "Hen1",
+   "Rating 2.0": 1.07,
+   "Headshot %": 29.2,
+   "KPR (kill per round)": 0.67,
+   "KAST %": 75.2,
+   "Impact": 0.84,
+   "TeamName": "Imperial"
+ },
+ {
+   "Name": "Boltz",
+   "Rating 2.0": 1.11,
+   "Headshot %": 39.4,
+   "KPR (kill per round)": 0.66,
+   "KAST %": 74.2,
+   "Impact": 1.08,
+   "TeamName": "Imperial"
+ },
+ {
+   "Name": "Felps",
+   "Rating 2.0": 1.05,
+   "Headshot %": 40.6,
+   "KPR (kill per round)": 0.69,
+   "KAST %": 67.3,
+   "Impact": 1.21,
+   "TeamName": "Imperial"
+ },
+ {
+   "Name": "Vini",
+   "Rating 2.0": 1.02,
+   "Headshot %": 42.2,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 71.3,
+   "Impact": 1.01,
+   "TeamName": "Imperial"
+ },
+ {
+   "Name": "Jota",
+   "Rating 2.0": 1.06,
+   "Headshot %": 52.3,
+   "KPR (kill per round)": 0.65,
+   "KAST %": 74.7,
+   "Impact": 0.97,
+   "TeamName": "Imperial"
+ },
+ {
+   "Name": "Fallen",
+   "Rating 2.0": 1.03,
+   "Headshot %": 29,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 71.6,
+   "Impact": 0.95,
+   "TeamName": "Furia"
+ },
+ {
+   "Name": "Chelo",
+   "Rating 2.0": 1.02,
+   "Headshot %": 61.5,
+   "KPR (kill per round)": 0.63,
+   "KAST %": 71.4,
+   "Impact": 0.95,
+   "TeamName": "Furia"
+ },
+ {
+   "Name": "Art",
+   "Rating 2.0": 1.06,
+   "Headshot %": 43.7,
+   "KPR (kill per round)": 0.67,
+   "KAST %": 69.1,
+   "Impact": 1.14,
+   "TeamName": "Furia"
+ },
+ {
+   "Name": "Yuurih",
+   "Rating 2.0": 1.08,
+   "Headshot %": 42.7,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 71.2,
+   "Impact": 1.03,
+   "TeamName": "Furia"
+ },
+ {
+   "Name": "Kscerato",
+   "Rating 2.0": 1.19,
+   "Headshot %": 46.3,
+   "KPR (kill per round)": 0.71,
+   "KAST %": 76.6,
+   "Impact": 1.06,
+   "TeamName": "Furia"
+ },
+ {
+   "Name": "Mynio",
+   "Rating 2.0": 0.91,
+   "Headshot %": 48.2,
+   "KPR (kill per round)": 0.58,
+   "KAST %": 65.9,
+   "Impact": 0.85,
+   "TeamName": "9INE"
+ },
+ {
+   "Name": "Goofy",
+   "Rating 2.0": 1.04,
+   "Headshot %": 38.6,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 71.1,
+   "Impact": 0.98,
+   "TeamName": "9INE"
+ },
+ {
+   "Name": "Hades",
+   "Rating 2.0": 1.12,
+   "Headshot %": 27.6,
+   "KPR (kill per round)": 0.73,
+   "KAST %": 71.8,
+   "Impact": 1.1,
+   "TeamName": "9INE"
+ },
+ {
+   "Name": "Kei",
+   "Rating 2.0": 1.11,
+   "Headshot %": 47.9,
+   "KPR (kill per round)": 0.73,
+   "KAST %": 69.9,
+   "Impact": 1.2,
+   "TeamName": "9INE"
+ },
+ {
+   "Name": "Kylar",
+   "Rating 2.0": 1.02,
+   "Headshot %": 52.2,
+   "KPR (kill per round)": 0.67,
+   "KAST %": 71.6,
+   "Impact": 0.96,
+   "TeamName": "9INE"
+ },
+ {
+   "Name": "Tabsen",
+   "Rating 2.0": 1.03,
+   "Headshot %": 52,
+   "KPR (kill per round)": 0.66,
+   "KAST %": 67.8,
+   "Impact": 1.07,
+   "TeamName": "BIG"
+ },
+ {
+   "Name": "Mantuu",
+   "Rating 2.0": 1.07,
+   "Headshot %": 24.1,
+   "KPR (kill per round)": 0.67,
+   "KAST %": 72.1,
+   "Impact": 1.06,
+   "TeamName": "BIG"
+ },
+ {
+   "Name": "Prosus",
+   "Rating 2.0": 1.02,
+   "Headshot %": 57.9,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 71.2,
+   "Impact": 1.01,
+   "TeamName": "BIG"
+ },
+ {
+   "Name": "Krimbo",
+   "Rating 2.0": 1.15,
+   "Headshot %": 49.2,
+   "KPR (kill per round)": 0.72,
+   "KAST %": 73.7,
+   "Impact": 1.06,
+   "TeamName": "BIG"
+ },
+ {
+   "Name": "S1n",
+   "Rating 2.0": 1.03,
+   "Headshot %": 51.3,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 71.2,
+   "Impact": 0.98,
+   "TeamName": "BIG"
+ },
+ {
+   "Name": "Chopper",
+   "Rating 2.0": 0.99,
+   "Headshot %": 55.5,
+   "KPR (kill per round)": 0.6,
+   "KAST %": 71.8,
+   "Impact": 0.85,
+   "TeamName": "Spirit"
+ },
+ {
+   "Name": "Magixx",
+   "Rating 2.0": 1.09,
+   "Headshot %": 47.2,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 75.8,
+   "Impact": 0.86,
+   "TeamName": "Spirit"
+ },
+ {
+   "Name": "Zont1x",
+   "Rating 2.0": 1.1,
+   "Headshot %": 42.8,
+   "KPR (kill per round)": 0.66,
+   "KAST %": 72.4,
+   "Impact": 1.07,
+   "TeamName": "Spirit"
+ },
+ {
+   "Name": "Donk",
+   "Rating 2.0": 1.33,
+   "Headshot %": 58.3,
+   "KPR (kill per round)": 0.9,
+   "KAST %": 74,
+   "Impact": 1.47,
+   "TeamName": "Spirit"
+ },
+ {
+   "Name": "Artfr0st",
+   "Rating 2.0": 1.17,
+   "Headshot %": 20.5,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 75.4,
+   "Impact": 1.02,
+   "TeamName": "Spirit"
+ },
+ {
+   "Name": "Elige",
+   "Rating 2.0": 1.22,
+   "Headshot %": 45.9,
+   "KPR (kill per round)": 0.77,
+   "KAST %": 74.6,
+   "Impact": 1.23,
+   "TeamName": "Complexity"
+ },
+ {
+   "Name": "Jt",
+   "Rating 2.0": 0.97,
+   "Headshot %": 55.2,
+   "KPR (kill per round)": 0.57,
+   "KAST %": 70.2,
+   "Impact": 0.9,
+   "TeamName": "Complexity"
+ },
+ {
+   "Name": "Floppy",
+   "Rating 2.0": 1.08,
+   "Headshot %": 53,
+   "KPR (kill per round)": 0.65,
+   "KAST %": 74.6,
+   "Impact": 0.9,
+   "TeamName": "Complexity"
+ },
+ {
+   "Name": "Hallzerk",
+   "Rating 2.0": 1.1,
+   "Headshot %": 35.4,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 71.3,
+   "Impact": 1.08,
+   "TeamName": "Complexity"
+ },
+ {
+   "Name": "Grim",
+   "Rating 2.0": 1.09,
+   "Headshot %": 51.5,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 72.5,
+   "Impact": 1.09,
+   "TeamName": "Complexity"
+ },
+ {
+   "Name": "Exit",
+   "Rating 2.0": 1.04,
+   "Headshot %": 49.3,
+   "KPR (kill per round)": 0.62,
+   "KAST %": 75,
+   "Impact": 0.87,
+   "TeamName": "MIBR"
+ },
+ {
+   "Name": "Saffee",
+   "Rating 2.0": 1.13,
+   "Headshot %": 28.1,
+   "KPR (kill per round)": 0.73,
+   "KAST %": 71.8,
+   "Impact": 1.1,
+   "TeamName": "MIBR"
+ },
+ {
+   "Name": "Drop",
+   "Rating 2.0": 1,
+   "Headshot %": 48.4,
+   "KPR (kill per round)": 0.6,
+   "KAST %": 72.3,
+   "Impact": 0.91,
+   "TeamName": "MIBR"
+ },
+ {
+   "Name": "Brnz4n",
+   "Rating 2.0": 1.01,
+   "Headshot %": 55.3,
+   "KPR (kill per round)": 0.63,
+   "KAST %": 68.7,
+   "Impact": 1.06,
+   "TeamName": "MIBR"
+ },
+ {
+   "Name": "Insani",
+   "Rating 2.0": 1.06,
+   "Headshot %": 53,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 70.8,
+   "Impact": 1.07,
+   "TeamName": "MIBR"
+ },
+ {
+   "Name": "Nexa",
+   "Rating 2.0": 0.95,
+   "Headshot %": 51.7,
+   "KPR (kill per round)": 0.59,
+   "KAST %": 70.7,
+   "Impact": 0.77,
+   "TeamName": "OG"
+ },
+ {
+   "Name": "Fashr",
+   "Rating 2.0": 1.04,
+   "Headshot %": 54.2,
+   "KPR (kill per round)": 0.65,
+   "KAST %": 69.2,
+   "Impact": 1.08,
+   "TeamName": "OG"
+ },
+ {
+   "Name": "K1to",
+   "Rating 2.0": 1,
+   "Headshot %": 62.9,
+   "KPR (kill per round)": 0.65,
+   "KAST %": 68.6,
+   "Impact": 1.01,
+   "TeamName": "OG"
+ },
+ {
+   "Name": "F1ku",
+   "Rating 2.0": 1.03,
+   "Headshot %": 53.9,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 70,
+   "Impact": 0.99,
+   "TeamName": "OG"
+ },
+ {
+   "Name": "Regali",
+   "Rating 2.0": 1.06,
+   "Headshot %": 31.6,
+   "KPR (kill per round)": 0.69,
+   "KAST %": 71.2,
+   "Impact": 0.97,
+   "TeamName": "OG"
+ },
+ {
+   "Name": "Blitz",
+   "Rating 2.0": 1.11,
+   "Headshot %": 50.4,
+   "KPR (kill per round)": 0.73,
+   "KAST %": 69.9,
+   "Impact": 1.11,
+   "TeamName": "TheMongolz"
+ },
+ {
+   "Name": "Techno",
+   "Rating 2.0": 1.06,
+   "Headshot %": 62.4,
+   "KPR (kill per round)": 0.69,
+   "KAST %": 71.4,
+   "Impact": 0.99,
+   "TeamName": "TheMongolz"
+ },
+ {
+   "Name": "Senzu",
+   "Rating 2.0": 1.13,
+   "Headshot %": 57.7,
+   "KPR (kill per round)": 0.76,
+   "KAST %": 68.1,
+   "Impact": 1.22,
+   "TeamName": "TheMongolz"
+ },
+ {
+   "Name": "Mzinho",
+   "Rating 2.0": 1.05,
+   "Headshot %": 62.8,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 69.8,
+   "Impact": 1.03,
+   "TeamName": "TheMongolz"
+ },
+ {
+   "Name": "910",
+   "Rating 2.0": 1.09,
+   "Headshot %": 31,
+   "KPR (kill per round)": 0.69,
+   "KAST %": 72.1,
+   "Impact": 1.02,
+   "TeamName": "TheMongolz"
+ },
+ {
+   "Name": "Alex",
+   "Rating 2.0": 1.02,
+   "Headshot %": 45.6,
+   "KPR (kill per round)": 0.66,
+   "KAST %": 71.5,
+   "Impact": 0.91,
+   "TeamName": "Movistar Rider"
+ },
+ {
+   "Name": "Just",
+   "Rating 2.0": 1.03,
+   "Headshot %": 48.6,
+   "KPR (kill per round)": 0.65,
+   "KAST %": 70.3,
+   "Impact": 1,
+   "TeamName": "Movistar Rider"
+ },
+ {
+   "Name": "Mopoz",
+   "Rating 2.0": 0.98,
+   "Headshot %": 50,
+   "KPR (kill per round)": 0.6,
+   "KAST %": 68.2,
+   "Impact": 1.01,
+   "TeamName": "Movistar Rider"
+ },
+ {
+   "Name": "Adams",
+   "Rating 2.0": 1.04,
+   "Headshot %": 38.4,
+   "KPR (kill per round)": 0.67,
+   "KAST %": 70.3,
+   "Impact": 1.04,
+   "TeamName": "Movistar Rider"
+ },
+ {
+   "Name": "Martinez",
+   "Rating 2.0": 1.16,
+   "Headshot %": 32.4,
+   "KPR (kill per round)": 0.73,
+   "KAST %": 73.2,
+   "Impact": 1.14,
+   "TeamName": "Movistar Rider"
+ },
+ {
+   "Name": "Nickelback",
+   "Rating 2.0": 0.98,
+   "Headshot %": 44.3,
+   "KPR (kill per round)": 0.62,
+   "KAST %": 69.7,
+   "Impact": 0.94,
+   "TeamName": "1WIN"
+ },
+ {
+   "Name": "Boombl4",
+   "Rating 2.0": 1,
+   "Headshot %": 37.6,
+   "KPR (kill per round)": 0.63,
+   "KAST %": 69.5,
+   "Impact": 0.99,
+   "TeamName": "1WIN"
+ },
+ {
+   "Name": "Forester",
+   "Rating 2.0": 1.09,
+   "Headshot %": 47.2,
+   "KPR (kill per round)": 0.69,
+   "KAST %": 71.4,
+   "Impact": 1.11,
+   "TeamName": "1WIN"
+ },
+ {
+   "Name": "Travis",
+   "Rating 2.0": 1.08,
+   "Headshot %": 51.2,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 72,
+   "Impact": 1.03,
+   "TeamName": "1WIN"
+ },
+ {
+   "Name": "Deko",
+   "Rating 2.0": 1.25,
+   "Headshot %": 36.4,
+   "KPR (kill per round)": 0.8,
+   "KAST %": 75,
+   "Impact": 1.2,
+   "TeamName": "1WIN"
+ },
+ {
+   "Name": "Rigon",
+   "Rating 2.0": 1.06,
+   "Headshot %": 52.9,
+   "KPR (kill per round)": 0.72,
+   "KAST %": 67.7,
+   "Impact": 1.17,
+   "TeamName": "Bad News Eagles"
+ },
+ {
+   "Name": "Sener1",
+   "Rating 2.0": 0.95,
+   "Headshot %": 50.9,
+   "KPR (kill per round)": 0.58,
+   "KAST %": 69.4,
+   "Impact": 0.86,
+   "TeamName": "Bad News Eagles"
+ },
+ {
+   "Name": "Juanflatroo",
+   "Rating 2.0": 1.09,
+   "Headshot %": 53.6,
+   "KPR (kill per round)": 0.73,
+   "KAST %": 70.7,
+   "Impact": 1.09,
+   "TeamName": "Bad News Eagles"
+ },
+ {
+   "Name": "Sinnopsyy",
+   "Rating 2.0": 0.99,
+   "Headshot %": 49.9,
+   "KPR (kill per round)": 0.64,
+   "KAST %": 67.8,
+   "Impact": 0.97,
+   "TeamName": "Bad News Eagles"
+ },
+ {
+   "Name": "Gxx-",
+   "Rating 2.0": 1.06,
+   "Headshot %": 29,
+   "KPR (kill per round)": 0.7,
+   "KAST %": 70.1,
+   "Impact": 0.99,
+   "TeamName": "Bad News Eagles"
+ },
+ {
+   "Name": "Lack1",
+   "Rating 2.0": 0.95,
+   "Headshot %": 47.7,
+   "KPR (kill per round)": 0.65,
+   "KAST %": 65,
+   "Impact": 1.02,
+   "TeamName": "Aurora"
+ },
+ {
+   "Name": "Sellter",
+   "Rating 2.0": 0.92,
+   "Headshot %": 54.4,
+   "KPR (kill per round)": 0.6,
+   "KAST %": 68.2,
+   "Impact": 0.78,
+   "TeamName": "Aurora"
+ },
+ {
+   "Name": "Kensi",
+   "Rating 2.0": 1.11,
+   "Headshot %": 47.3,
+   "KPR (kill per round)": 0.72,
+   "KAST %": 70.1,
+   "Impact": 1.12,
+   "TeamName": "Aurora"
+ },
+ {
+   "Name": "Norwi",
+   "Rating 2.0": 1.08,
+   "Headshot %": 48.4,
+   "KPR (kill per round)": 0.7,
+   "KAST %": 72.6,
+   "Impact": 1.01,
+   "TeamName": "Aurora"
+ },
+ {
+   "Name": "Lattykk",
+   "Rating 2.0": 1.04,
+   "Headshot %": 32.5,
+   "KPR (kill per round)": 0.66,
+   "KAST %": 70.1,
+   "Impact": 1.02,
+   "TeamName": "Aurora"
+ },
+ {
+   "Name": "Autimatic",
+   "Rating 2.0": 1.03,
+   "Headshot %": 49,
+   "KPR (kill per round)": 0.66,
+   "KAST %": 68.8,
+   "Impact": 1.06,
+   "TeamName": "Evil Geniuses "
+ },
+ {
+   "Name": "Junior",
+   "Rating 2.0": 1.13,
+   "Headshot %": 27.9,
+   "KPR (kill per round)": 0.72,
+   "KAST %": 73.4,
+   "Impact": 1.05,
+   "TeamName": "Evil Geniuses "
+ },
+ {
+   "Name": "Walco",
+   "Rating 2.0": 0.93,
+   "Headshot %": 56.1,
+   "KPR (kill per round)": 0.59,
+   "KAST %": 66.1,
+   "Impact": 0.94,
+   "TeamName": "Evil Geniuses "
+ },
+ {
+   "Name": "Hext",
+   "Rating 2.0": 1.09,
+   "Headshot %": 46.4,
+   "KPR (kill per round)": 0.68,
+   "KAST %": 71.7,
+   "Impact": 1.05,
+   "TeamName": "Evil Geniuses "
+ },
+ {
+   "Name": "Jeorge",
+   "Rating 2.0": 0.95,
+   "Headshot %": 48.9,
+   "KPR (kill per round)": 0.61,
+   "KAST %": 69.7,
+   "Impact": 0.87,
+   "TeamName": "Evil Geniuses "
+ }
+]
